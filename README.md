@@ -1,2 +1,2 @@
 # wing
-something about ai
+something
